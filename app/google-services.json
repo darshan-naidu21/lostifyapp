@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904130113561",
+    "project_id": "lostifyapp-9d595",
+    "storage_bucket": "lostifyapp-9d595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904130113561:android:72c68053f9643277103a88",
+        "android_client_info": {
+          "package_name": "com.darshan.lostifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904130113561-28fjk2uvp0dnm4tqbl181i1a46s69qnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaEbdOSRTeuLYWsahRc6iU98u_9u8KBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904130113561-28fjk2uvp0dnm4tqbl181i1a46s69qnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
